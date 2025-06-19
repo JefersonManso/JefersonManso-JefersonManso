@@ -18,7 +18,7 @@
 - [**Nome do Projeto 2**](https://github.com/JefersonManso/projeto2) – *Breve descrição do projeto e tecnologias utilizadas.*
 
 ## 📫 Como me encontrar:
-- [LinkedIn](www.linkedin.com/in/jeferson-gomes)
+- [LinkedIn](https://www.linkedin.com/in/jeferson-gomes/)
 - [Email](jrpsb@outlook.com)
 
 ---
