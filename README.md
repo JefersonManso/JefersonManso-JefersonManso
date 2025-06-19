@@ -19,6 +19,8 @@
 ## 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/jeferson-gomes/)
 - [Email](jrpsb@outlook.com)
+- [Perfil da plataforma DIO](https://web.dio.me/users/jefersonmansogomes?tab=achievements)
+
 
 ---
 
